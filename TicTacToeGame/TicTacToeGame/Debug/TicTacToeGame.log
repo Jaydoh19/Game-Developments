@@ -1,0 +1,9 @@
+﻿  main.cpp
+  TicTacToe.cpp
+  TicTacToeSFML.cpp
+C:\Users\Jaydawg\Desktop\VS Projects\TicTacToeGame\TicTacToeSFML.cpp(59,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jaydawg\Desktop\VS Projects\TicTacToeGame\TicTacToeSFML.cpp(59,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jaydawg\Desktop\VS Projects\TicTacToeGame\TicTacToeSFML.cpp(131,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jaydawg\Desktop\VS Projects\TicTacToeGame\TicTacToeSFML.cpp(131,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  TicTacToeGame.vcxproj -> C:\Users\Jaydawg\Desktop\VS Projects\TicTacToeGame\Debug\TicTacToeGame.exe
